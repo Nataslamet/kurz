@@ -1,7 +1,7 @@
 {
-  "name": "Bot Wa KurrXd",
-    "logo": "https://telegra.ph/file/4e7512066a471b7a642d0.jpg",
-    "description": "SUBSCRIBE KurrXd OFFICIAL.",
+  "name": "Bot Wa Nata",
+    "logo": "",
+    "description": "",
   "keywords": ["nodejs", "bot", "whatsapp bot"]
     "repository": "https://github.com/KurrXd/KurzBotAssistan",
   "buildpacks": [
